@@ -1,0 +1,16 @@
+NtQueryPerformanceCounter
+NtProtectVirtualMemory
+NtProtectVirtualMemory
+NtQuerySystemInformation
+NtQueryVirtualMemory
+NtQueryVirtualMemory
+NtProtectVirtualMemory
+NtOpenKey
+NtOpenKey
+NtOpenKey
+NtQueryVirtualMemory
+NtFlushInstructionCache
+NtProtectVirtualMemory
+NtTestAlert
+NtTraceEvent
+NtRaiseHardError
