@@ -35,3 +35,13 @@ Python3 NtMalDetect.py -p 1234 -h
   - NtMalDetect.py - The main program that outputs prediction results
   - final_classifier.py - The script that determines if the program is a malware
   - pkl_build.py - Produces the pickle dumps
+  
+## Upcoming Changes 
+- [ ] Finish writing basic working python script.
+- [ ] Move all to src/ and make it an executable file.
+- [ ] Set up a remote server, export system call traces to a PostgreSQL database.
+- [ ] Write an API on that server so that people can submit new traces and new programs to contribute to the database.
+- [ ] Write a script that executes itself periodically to re-assess the classifiers and parameters based on the new inputs.
+
+
+
